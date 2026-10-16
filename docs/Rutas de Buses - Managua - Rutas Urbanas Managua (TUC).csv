@@ -1,0 +1,47 @@
+Zona / Categoría,Número de Ruta,Horario,Puntos de Transbordo / Paradas Principales,Tarifa
+Centro/UCA,102,5:00 am - 9:00 pm,"UCA, Mercado Iván Montenegro, Mercado El Mayoreo",2.50 NIO
+Centro/UCA,103,5:00 am - 9:00 pm,"UCA, Zumen, Mercado Iván Montenegro, Linda Vista, Las Piedrecitas",2.50 NIO
+Centro/UCA,105,5:00 am - 9:00 pm,"UCA, Metrocentro, Zumen, La Subasta",2.50 NIO
+Centro/UCA,110,5:00 am - 9:00 pm,"UCA, Metrocentro, Zumen, Mercado Iván Montenegro, Mercado El Mayoreo, Las Piedrecitas",2.50 NIO
+Centro/UCA,111,5:00 am - 9:00 pm,"UCA, Gancho de Camino, Mercado El Mayoreo, UNAN, La Subasta",2.50 NIO
+Centro/UCA,114,5:00 am - 9:00 pm,"UCA, Metrocentro, Zumen, Linda Vista, Las Piedrecitas, La Subasta",2.50 NIO
+Centro/UCA,117,5:00 am - 9:00 pm,"UCA, Mercado Roberto Huembes, Mercado Iván Montenegro, UNAN, La Subasta",2.50 NIO
+Centro/UCA,119,5:00 am - 9:00 pm,"UCA, Metrocentro, Mercado Roberto Huembes, Linda Vista",2.50 NIO
+Centro/UCA,120,5:00 am - 9:00 pm,"UCA, Metrocentro, Zumen, Mercado El Mayoreo, Las Piedrecitas",2.50 NIO
+Centro/UCA,168,5:00 am - 9:00 pm,"UCA, Metrocentro, Gancho de Camino, UNAN",2.50 NIO
+Centro/UCA,195,5:00 am - 9:00 pm,"UCA, Metrocentro, Gancho de Camino, Mercado Roberto Huembes, Mercado Iván Montenegro",2.50 NIO
+Este,104,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Roberto Huembes, Mercado El Mayoreo, La Subasta",2.50 NIO
+Este,108,5:00 am - 9:00 pm,,2.50 NIO
+Este,159,5:00 am - 9:00 pm,Mercado Roberto Huembes,2.50 NIO
+Este,163,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Roberto Huembes, Mercado Iván Montenegro",2.50 NIO
+Este,167,5:00 am - 9:00 pm,,2.50 NIO
+Este,169,5:00 am - 9:00 pm,"Mercado El Mayoreo, La Subasta",2.50 NIO
+Este,266,5:00 am - 9:00 pm,La Subasta,2.50 NIO
+Oeste,107,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Roberto Huembes, Linda Vista",2.50 NIO
+Oeste,113,5:00 am - 9:00 pm,"Gancho de Camino, Plaza Inter",2.50 NIO
+Oeste,115,5:00 am - 9:00 pm,,2.50 NIO
+Oeste,125,5:00 am - 9:00 pm,"Gancho de Camino, Las Piedrecitas",2.50 NIO
+Oeste,133,5:00 am - 9:00 pm,Linda Vista,2.50 NIO
+Oeste,154,5:00 am - 9:00 pm,"Gancho de Camino, Zumen, Mercado Iván Montenegro, Plaza Inter",2.50 NIO
+Oeste,158,5:00 am - 9:00 pm,"Gancho de Camino, Zumen",2.50 NIO
+Oeste,172,5:00 am - 9:00 pm,Gancho de Camino,2.50 NIO
+Oeste,210,5:00 am - 9:00 pm,"UCA, Metrocentro, Zumen, Las Piedrecitas",2.50 NIO
+Sur,MR4,5:00 am - 9:00 pm,"Gancho de Camino, Zumen, Plaza Inter",2.50 NIO
+Sur,116,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Roberto Huembes, Mercado Iván Montenegro, Plaza Inter",2.50 NIO
+Sur,118,5:00 am - 9:00 pm,"Gancho de Camino, Linda Vista, Plaza Inter, Las Piedrecitas",2.50 NIO
+Sur,175,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Iván Montenegro, Plaza Inter",2.50 NIO
+Norte,109,5:00 am - 9:00 pm,"Linda Vista, Plaza Inter",2.50 NIO
+Norte,112,5:00 am - 9:00 pm,"Zumen, Mercado Iván Montenegro, Las Piedrecitas",2.50 NIO
+Norte,123,5:00 am - 9:00 pm,"Zumen, Mercado Roberto Huembes",2.50 NIO
+Norte,170,5:00 am - 9:00 pm,La Subasta,2.50 NIO
+Suburbanas / Interurbanas Cortas,106,5:00 am - 9:00 pm,"Zumen, UNAN",2.50 NIO
+Suburbanas / Interurbanas Cortas,164,5:00 am - 9:00 pm,"Gancho de Camino, Mercado Roberto Huembes",2.50 NIO
+Suburbanas / Interurbanas Cortas,165,5:00 am - 9:00 pm,"Gancho de Camino, Plaza Inter",2.50 NIO
+Suburbanas / Interurbanas Cortas,262,5:00 am - 9:00 pm,"Gancho de Camino, Zumen, Mercado Roberto Huembes",2.50 NIO
+Suburbanas / Interurbanas Cortas,Vanegas,5:00 am - 9:00 pm,"Metrocentro, Gancho de Camino",2.50 NIO
+Suburbanas / Interurbanas Cortas,Esquipulas,5:00 am - 9:00 pm,,2.50 NIO
+Suburbanas / Interurbanas Cortas,San Isidro,5:00 am - 9:00 pm,"Metrocentro, Gancho de Camino",2.50 NIO
+Ciudad Sandino,125 CS,5:00 am - 9:00 pm,,2.50 NIO
+No Especificada,101,5:00 am - 9:00 pm,"Mercado Iván Montenegro, Mercado El Mayoreo, Plaza Inter",2.50 NIO
+No Especificada,160,5:00 am - 9:00 pm,Mercado Iván Montenegro,2.50 NIO
+No Especificada,6,5:00 am - 9:00 pm,La Subasta,2.50 NIO

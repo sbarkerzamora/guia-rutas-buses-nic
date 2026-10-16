@@ -1,0 +1,35 @@
+packages:
+  - "."
+
+# Supply-chain and reproducibility guards (pnpm 11).
+minimumReleaseAge: 1440 # minutes (1 day): a brand-new version never lands unreviewed
+blockExoticSubdeps: true # git/tarball deps cannot sneak in through a transitive package
+trustPolicy: no-downgrade # refuses a version whose provenance is weaker than the last one
+# Flagged for missing provenance rather than an actual downgrade. Revisit at
+# each dependency update: remove what no longer trips the check.
+trustPolicyExclude:
+  - semver
+  - "@vercel/cli-config"
+  - "@vercel/cli-exec"
+  - "@vercel/connect"
+  - "@vercel/oidc"
+verifyDepsBeforeRun: install # never run a script against a node_modules that drifted from the lockfile
+saveExact: true # `pnpm add` pins the exact version, like the rest of this file
+
+# eve, ai and @vercel/connect ship fast and must stay in step with each other.
+minimumReleaseAgeExclude:
+  - eve
+  - "@vercel/connect"
+  - ai
+
+allowBuilds:
+  '@mongodb-js/zstd': true
+  esbuild: true
+  node-liblzma: true
+
+# Transitive fixes for advisories that no direct dependency has released yet.
+# Both stay inside the installed major. Drop an entry once its parent package
+# resolves the patched version on its own.
+overrides:
+  "undici@>=7.0.0 <7.29.1": "7.30.0" # GHSA 1240041 / 1240050 (DoS, TLS bypass)
+  "source-map-js@<1.2.2": "1.2.2" # GHSA 1241209 (event-loop DoS)
